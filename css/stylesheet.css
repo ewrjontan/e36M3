@@ -1,3 +1,23 @@
+.jumbotron{
+    background-image: linear-gradient(to bottom right, black, white);
+ 
+}
+
 .navbar{
-    background-color: white;
+    /*background-color: white;*/
+    background-image: linear-gradient(to top, white, #D6D6D6, white);
+}
+
+.carousel-item img{
+    
+}
+
+#cutaway-container{
+    /*background-image: linear-gradient(to top, black , black, white);*/
+    background-color: black;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
 }
