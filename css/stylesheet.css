@@ -4,7 +4,7 @@
 }
 
 .navbar{
-    /*background-color: white;*/
+    /*background-color: none;*/
     background-image: linear-gradient(to top, white, #D6D6D6, white);
 }
 
@@ -20,4 +20,9 @@
 ul{
     list-style-type: none;
     padding-left: 0;
+}
+
+i {
+    color: black;
+
 }
